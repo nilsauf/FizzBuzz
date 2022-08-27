@@ -1,2 +1,3 @@
 # FizzBuzz
-Solutions for the Codecademy FizzBuzz Project
+
+Solutions for the FizzBuzz Project
